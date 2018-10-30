@@ -26,6 +26,7 @@
     self.view.backgroundColor = [UIColor blueColor];
 
 
+    // 我也提交了
     
     UIView *view = [[UIView alloc]initWithFrame:CGRectMake(0, 0, 100, 100)];
     view.backgroundColor = [UIColor redColor];
