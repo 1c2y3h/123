@@ -23,6 +23,10 @@
     
     self.view.backgroundColor = [UIColor grayColor];
     
+    self.view.backgroundColor = [UIColor blueColor];
+
+
+    
     UIView *view = [[UIView alloc]initWithFrame:CGRectMake(0, 0, 100, 100)];
     view.backgroundColor = [UIColor redColor];
     [self.view addSubview:view];
