@@ -21,6 +21,7 @@
     
     BOOL a = [string validateIdentityCard];
     
+    self.view.backgroundColor = [UIColor grayColor];
     
     UIView *view = [[UIView alloc]initWithFrame:CGRectMake(0, 0, 100, 100)];
     view.backgroundColor = [UIColor redColor];
